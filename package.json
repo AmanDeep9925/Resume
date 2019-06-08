@@ -1,6 +1,6 @@
 {
   "name": "resume",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "My Resume Website",
   "main": "index.js",
   "dependencies": {
@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/AmanDeep9925/Resume.git"
   },
-  "author": "",
+  "author": "AmanDeep9925",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AmanDeep9925/Resume/issues"
